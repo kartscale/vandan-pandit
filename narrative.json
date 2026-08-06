@@ -13,15 +13,33 @@
   },
   "seemantonayan": {
     "narrative": [
-      "Spend climbed 49.6% to ₹9,027 (from ₹6,036) on 359 chats, up 22.1% — but cost per chat rose again to ₹25.15 (+22.5%) and CPM jumped to ₹35.64, up 40.6% from ₹25.36. That CPM increase is accelerating, not stabilizing: yesterday's read showed CPM up 30.2% week over week, so the erosion in this audience is getting worse.",
-      "'VP_Garbhsanskar_ 27July26' keeps absorbing more budget (₹1,587 to ₹2,525) while its CTR keeps softening (0.58% to 0.49%), the same decline flagged for three weeks running. 'Testing_Broad_17Jun26' has now overtaken it as the single largest spend mover (+₹1,096 to ₹4,053), and 'VP_App-Download_31July26' has cleared a second full week, its ad 'VP_AppDownload_Video1' still holding a healthy 0.90% CTR on ₹1,008 of spend, up from ₹851 yesterday."
+      "As of this run, the App Install CTWA ad set (previously blended into this tab) has been split into its own tab — the numbers below are Seemantonayan's true, unblended read for the first time. On that corrected basis, spend rose 32.3% to ₹7,986 (from ₹6,036), but chats actually fell 17.3% to 243 (from 294), pushing cost per chat up 60.1% to ₹32.86 and CPM up 41.6% to ₹35.91. That's a materially different picture than the last combined read (chats up 22.1%, cost per chat up 22.5%) — nearly all of that apparent volume growth was coming from the App Install ad set now reported separately; underlying Seemantonayan chat volume is actually declining while spend and cost climb.",
+      "'VP_Garbhsanskar_ 27July26' keeps absorbing more budget (₹1,587 to ₹2,525) while its CTR keeps softening (0.58% to 0.49%), the same decline flagged for three weeks running — with the App Install volume no longer masking it, this ad set's role in the tab's falling chat count is clearer. 'Testing_Broad_17Jun26' remains the single largest spend mover (+₹1,096 to ₹4,053), and CTR across the tab has dropped to 0.61%, its weakest reading yet."
     ],
-    "callout": null,
+    "callout": {
+      "title": "Numbers restated: App Install CTWA now split out",
+      "body": "As of today, the App Install/WhatsApp ad set ('VP_App-Download_31July26' — ₹1,042 spend, 116 chats this window) has moved to its own tab since it's a different objective. Everything above is Seemantonayan's corrected, unblended read; don't compare it directly against narrative from before this change without accounting for that."
+    },
     "actions": [
+      "Corrected for the App Install split, chat volume is down 17.3% while spend is up 32.3% — that's a real efficiency problem, not the modest cost creep it looked like when the two were blended together. Treat this with more urgency than previously flagged.",
       "'VP_Garbhsanskar_ 27July26' has had three weeks of declining CTR while absorbing more spend. Pause or hard-cap it this week rather than waiting further.",
-      "CPM growth is accelerating (40.6% this week vs 30.2% last week) — this is now a real saturation signal, not noise. Expand into a new interest or lookalike audience rather than adding budget to the same broad testing ad set.",
-      "'VP_App-Download_31July26' has now cleared two full weeks with a stable ~0.90% CTR. It's a safe candidate for a modest scale-up.",
-      "'Testing_Broad_17Jun26' is now the top spend mover in this tab — check its CTR on the next read before letting it keep growing unchecked."
+      "CPM up 41.6% week-over-week is a clear saturation signal in this audience. Expand into a new interest or lookalike audience rather than adding budget to the same broad testing ad set.",
+      "'Testing_Broad_17Jun26' is still the top spend mover in this tab — check its CTR on the next read before letting it keep growing unchecked."
+    ]
+  },
+  "app_install_ctwa": {
+    "narrative": [
+      "New tab as of this run: this WhatsApp click-to-chat ad set drives app installs and was previously blended into Seemantonayan's numbers — it's now tracked separately since it's a different objective. Since launching around July 31, it's spent ₹1,042 across 8 days for 116 chats, a cost per chat of just ₹8.98 — dramatically cheaper than Seemantonayan's ₹32.86. CTR is a healthy 0.90% with hook rate at 26.45%.",
+      "Nearly all spend so far (₹1,008 of ₹1,042) has gone to the video creative 'VP_AppDownload_Video1', holding a 0.90% CTR; the static variant 'VP_AppDownload_Static-1' has only ₹34 of spend so far — too little to read yet. There's only one ad set running ('VP_App-Download_31July26'), so there's no spend-shift pattern to report yet; treat this as a single-ad-set, first-week baseline."
+    ],
+    "callout": {
+      "title": "New tab — early read, small sample",
+      "body": "Only 8 days and ₹1,042 of spend so far. Treat these numbers as a first baseline, not a stable trend — revisit after 2-3 more weeks of data before drawing conclusions."
+    },
+    "actions": [
+      "Cost per chat (₹8.98) is dramatically cheaper than Seemantonayan's (₹32.86) on early data. Worth a modest budget increase to see if that efficiency holds at scale.",
+      "Only one ad set and effectively one ad are running. Get a second creative variant into real rotation (the static ad has only ₹34 of spend) so there's a genuine comparison next read.",
+      "Too early to flag any spend-shift patterns — revisit ad-set/ad diagnostics once there's 2+ weeks of history."
     ]
   },
   "umbartha": {
