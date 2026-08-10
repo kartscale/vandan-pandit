@@ -149,6 +149,15 @@ const DATA = {"tabs": [{"id": "vastu_shanti", "label": "Vastu Shanti", "type": "
 function parseDate(s){ return new Date(s+"T00:00:00Z"); }
 function fmtDate(d){ return d.toISOString().slice(0,10); }
 function addDays(d, n){ const r = new Date(d.getTime()); r.setUTCDate(r.getUTCDate()+n); return r; }
+function shiftMonths(d, delta){
+  // Same day-of-month, delta months earlier/later, clamped to the target month's length
+  // (e.g. Mar 31 shifted -1 month clamps to Feb 28/29 rather than overflowing into March).
+  const day = d.getUTCDate();
+  const target = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth()+delta, 1));
+  const daysInTargetMonth = new Date(Date.UTC(target.getUTCFullYear(), target.getUTCMonth()+1, 0)).getUTCDate();
+  target.setUTCDate(Math.min(day, daysInTargetMonth));
+  return target;
+}
 function datesBetween(from, to){
   const out = [];
   let cur = parseDate(from);
@@ -174,7 +183,7 @@ function initTab(tab){
   (DATA.adsetDaily[tab.id]||[]).forEach(d => adsetDailyByKey[d.adset+'||'+d.date] = d);
   const adsets = DATA.adsets[tab.id]||[];
   state[tab.id] = { dailyByDate, adsetDailyByKey, dates, adsets, minDate, maxDate,
-                     currentFrom:null, currentTo:null, currentAdset:'ALL', charts:{} };
+                     currentFrom:null, currentTo:null, currentPreset:'mtd', currentAdset:'ALL', charts:{} };
 }
 DATA.tabs.forEach(initTab);
 const globalMaxDate = DATA.tabs.map(t => state[t.id].maxDate).sort().slice(-1)[0];
@@ -231,11 +240,24 @@ function deriveMetrics(agg){
            shopifyPurchases: agg.shopify_orders, conversionValue, roas };
 }
 
-function getPriorPeriod(from, to){
+// preset drives what "previous period" means:
+//  - 'last7'  -> the 7 (or N) days immediately before the selected range
+//  - 'all'    -> no meaningful previous period (returns null)
+//  - anything else (mtd, month, custom) -> the same from/to dates shifted back
+//    exactly one calendar month, so a partial-month selection like "Aug 1-10"
+//    compares against "Jul 1-10" rather than the immediately preceding 10 days.
+function getPriorPeriod(from, to, preset){
+  if(preset === 'all') return null;
+  if(preset === 'last7'){
+    const fromD = parseDate(from), toD = parseDate(to);
+    const lengthDays = Math.round((toD - fromD)/86400000) + 1;
+    const priorTo = addDays(fromD, -1);
+    const priorFrom = addDays(priorTo, -(lengthDays-1));
+    return {from: fmtDate(priorFrom), to: fmtDate(priorTo)};
+  }
   const fromD = parseDate(from), toD = parseDate(to);
-  const lengthDays = Math.round((toD - fromD)/86400000) + 1;
-  const priorTo = addDays(fromD, -1);
-  const priorFrom = addDays(priorTo, -(lengthDays-1));
+  const priorFrom = shiftMonths(fromD, -1);
+  const priorTo = shiftMonths(toD, -1);
   return {from: fmtDate(priorFrom), to: fmtDate(priorTo)};
 }
 
@@ -266,8 +288,8 @@ function renderKPIs(tab, from, to){
   const cur = deriveMetrics(aggregate(tab.id, from, to));
   let prev = null;
   if(compare){
-    const p = getPriorPeriod(from, to);
-    prev = deriveMetrics(aggregate(tab.id, p.from, p.to));
+    const p = getPriorPeriod(from, to, st.currentPreset);
+    if(p) prev = deriveMetrics(aggregate(tab.id, p.from, p.to));
   }
   const grid = document.getElementById('kpiGrid_'+tab.id);
   grid.innerHTML = '';
@@ -784,11 +806,13 @@ function renderOpsPanel(tab, from, to){
 }
 
 function updateSubtitle(tab, from, to){
+  const st = state[tab.id];
   const compare = document.getElementById('compare_'+tab.id).checked;
   let text = 'Showing '+from+' to '+to;
   if(compare){
-    const p = getPriorPeriod(from, to);
-    text += '  |  compared with '+p.from+' to '+p.to;
+    const p = getPriorPeriod(from, to, st.currentPreset);
+    if(p) text += '  |  compared with '+p.from+' to '+p.to;
+    else text += '  |  no previous period to compare (All Time selected)';
   }
   document.getElementById('rangeSubtitle_'+tab.id).textContent = text;
 }
@@ -822,6 +846,7 @@ function wireTab(tab){
   document.querySelectorAll('.preset-btn[data-tab="'+tab.id+'"][data-preset]').forEach(btn => {
     btn.addEventListener('click', () => {
       setActivePreset(tab.id, btn.dataset.preset);
+      st.currentPreset = btn.dataset.preset;
       const today = parseDate(st.maxDate);
       if(btn.dataset.preset === 'last7'){
         setRange(tab, fmtDate(addDays(today,-6)), st.maxDate);
@@ -834,6 +859,7 @@ function wireTab(tab){
   });
   document.getElementById('monthPicker_'+tab.id).addEventListener('change', (e) => {
     setActivePreset(tab.id, null);
+    st.currentPreset = 'month';
     const val = e.target.value;
     if(!val) return;
     const [y,m] = val.split('-').map(Number);
@@ -846,6 +872,7 @@ function wireTab(tab){
   });
   document.getElementById('applyCustom_'+tab.id).addEventListener('click', () => {
     setActivePreset(tab.id, null);
+    st.currentPreset = 'custom';
     const from = document.getElementById('customFrom_'+tab.id).value;
     const to = document.getElementById('customTo_'+tab.id).value;
     if(from && to) setRange(tab, from, to);
