@@ -1,84 +1,85 @@
 {
   "vastu_shanti": {
     "narrative": [
-      "Spend rose 16.5% to ₹11,038 (from ₹9,479) on 246 leads, up 7.4% from 229 — cost per lead rose 8.4% to ₹44.87 (from ₹41.39), a touch above the low-40s band this tab has held for several reads but not a sharp break. CPM held essentially flat at ₹60.05 (from ₹60.16) and CTR ticked up to 1.09% (from 1.06%), so the modest CPL increase looks more like normal week-to-week movement than a real efficiency shift.",
-      "The Advantage+TG consolidation continues to hold: the original ad set stayed at ₹0 while its 'Copy' grew further to ₹8,133 (from ₹2,722 this window) — still no signs of reverting. 'VP_Animated-Static_17July26' remains the anchor ad, spend up 22.9% to ₹7,978 with CTR nudging up again to 0.91% (from 0.85%) — this ad has now anchored spend for well over a month with no saturation signal yet.",
-      "Hook rate eased only 0.9% this window (to 24.74% from 24.96%) — a much smaller move than the 4.5% and 5.8% declines seen in the two reads before this. The three-read softening trend looks to have leveled off rather than continued, though it's worth one more clean read before calling it fully resolved."
+      "Spend climbed 23.3% to ₹11,576 (from ₹9,392) on 260 leads, up 17.6% from 221 — cost per lead rose a modest 4.8% to ₹44.52 (from ₹42.50), staying in the same low to mid ₹40s band this tab has held for weeks. CPM was essentially flat at ₹60.26 (from ₹60.11) and CTR eased slightly to 1.07% (from 1.09%), so despite the sharp spend increase, efficiency held roughly steady rather than degrading.",
+      "The Advantage+TG consolidation flagged in recent reads has gone further this window: 'VP_Lead_inst-form_Advantage+TG_01-04-2026 – Copy' grew to ₹8,452 (from ₹3,700, up 128.5%) while the original ad set dropped fully to ₹0 (from ₹3,056). 'VP_Animated-Static_17July26' remains the anchor ad, spend up 27.8% to ₹8,269 with CTR ticking up again to 0.90% (from 0.87%) — now well over a month of steady growth with still no sign of saturation.",
+      "Hook rate eased 2.1% this window (to 24.54% from 25.06%), a touch more than last read's near flat 0.9% move but still far short of the sharper 4 to 6% declines seen earlier in this stretch of reads. The softening trend looks to be continuing at a slow pace rather than reversing, worth one more clean read before drawing a firm conclusion."
     ],
     "callout": null,
     "actions": [
-      "Hook rate's decline has essentially stalled this window (down just 0.9%, vs 4.5% and 5.8% in the two prior reads) — a good sign, but keep the fresh hook variant in testing as planned rather than standing down.",
-      "'VP_Animated-Static_17July26' keeps growing (now ₹7,978, up 22.9%) and has anchored spend for over a month. Line up a close variant so a fresh option is ready before frequency (currently 1.19) starts capping it.",
-      "The Advantage+TG consolidation continues to hold — original ad set still at ₹0, 'Copy' now carrying ₹8,133. No action needed, just confirming it's sticking.",
-      "CPL ticked up to ₹44.87 but CTR also improved (1.09%, up from 1.06%) — this reads as normal variation, not a new efficiency problem. Keep budget concentrated on the anchor ad and the consolidated ad set."
+      "Hook rate eased again this window (down 2.1% to 24.54%), extending the gentle softening trend. Keep the fresh hook variant moving through testing.",
+      "'VP_Animated-Static_17July26' keeps growing (now ₹8,269, up 27.8%) and has anchored spend for well over a month. Line up a close variant so a fresh option is ready before frequency (currently 1.19) starts capping it.",
+      "The Advantage+TG consolidation has gone further this window: original ad set now fully at ₹0, 'Copy' carrying ₹8,452. No action needed, just confirming it continues to hold.",
+      "Spend rose sharply (23.3%) alongside a healthy 17.6% lift in leads, keeping CPL roughly stable at ₹44.52. Current pacing looks sustainable — keep an eye on CPL as spend keeps scaling."
     ]
   },
   "seemantonayan": {
     "narrative": [
-      "For a fifth straight read, Seemantonayan's efficiency keeps deteriorating: chats fell 37.5% to 218 (from 349) while spend rose 3.1% to ₹8,786 (from ₹8,520), pushing cost per chat up 65.1% to ₹40.30 and CPM up 52.2% to ₹40.22 — both worse again than last read's ₹39.90 and ₹40.11. This is now five consecutive reads confirming the same shape: spend holding or climbing while chat volume keeps eroding.",
-      "CTR fell further to 0.52% (from 0.75% this window) — a fifth straight new low, extending the audience fatigue flagged repeatedly. 'VP_Garbhsanskar_Testimonial_VideoAD_19-02-26 – Copy' kept absorbing more spend despite weakening further: now ₹3,709 (up from ₹611 this window) while CTR dropped to 0.36% (from 0.82%) — a fourth straight read of rising spend paired with falling CTR on the same ad.",
-      "On the positive side, 'VP_Garbhsanskar_ 27July26', flagged for five-plus weeks of decline and repeated pause recommendations, was finally cut hard — down 83.5% to ₹582 (from ₹3,530) this window, with CTR still soft at 0.44%. This is the clearest sign yet that the phase-down recommendation is being acted on rather than just flagged again."
+      "Spend rose 9.3% to ₹8,933 (from ₹8,170) while chats fell 18.1% to 222 (from 271), pushing cost per chat up 33.5% to ₹40.24 and CPM up 22.1% to ₹40.90. Both figures land almost exactly where last read's numbers already were (₹40.30 and ₹40.22), suggesting the decline that ran for five straight reads has leveled off at this lower plateau rather than continuing to worsen further.",
+      "CTR held at 0.51% (from 0.62% this window), essentially matching last read's new low of 0.52% rather than falling further, another sign this metric has stabilized rather than kept sliding. 'VP_Garbhsanskar_Testimonial_VideoAD_19-02-26 – Copy' kept absorbing spend, up to ₹4,184 (from ₹405) while CTR slipped to 0.38% (from 0.71%) — this ad has now taken on rising spend paired with falling CTR across six straight reads.",
+      "The bright spot continues: 'VP_Garbhsanskar_ 27July26', already cut by over 80% last read, was cut further this window to just ₹95 (from ₹3,694), effectively fully paused. This confirms the phase down recommendation has fully landed rather than being a one window blip."
     ],
     "callout": {
-      "title": "Fifth straight read of declining efficiency",
-      "body": "Chats have now fallen for five consecutive reads (cost per chat up to ₹40.30, CTR down to a new low of 0.52%). The one bright spot: 'VP_Garbhsanskar_ 27July26' was finally cut by over 80% this window after being flagged repeatedly — worth checking next read whether that alone starts to move the CTR/CPM trend, or whether a genuinely new audience or creative is still needed."
+      "title": "Efficiency decline appears to have leveled off, not reversed",
+      "body": "Cost per chat (₹40.24) and CPM (₹40.90) both landed almost exactly where last read's numbers already sat, and CTR held near its recent low (0.51%) rather than falling further. That's a meaningfully better sign than another straight decline, but the tab is still operating at the depressed efficiency level reached over the last five reads, not recovering from it. A genuinely new creative angle, not just further ad set cuts, is still the priority."
     },
     "actions": [
-      "Efficiency decline is now confirmed for a fifth straight read (chats down 37.5%, cost per chat up 65.1%, CTR at a new low of 0.52%). This needs a genuinely new creative or audience angle, not just further cuts within the existing ad set.",
-      "'VP_Garbhsanskar_Testimonial_VideoAD_19-02-26 – Copy' has taken on rising spend for a fourth straight read (₹902 → ₹2,643 → ₹3,137 → ₹3,709) while CTR keeps falling (now 0.36%). Cap this ad's budget immediately.",
-      "'VP_Garbhsanskar_ 27July26' was finally cut by 83.5% to ₹582 this window — the phase-down recommendation is finally landing. Confirm it's fully paused, not just reduced, by next read.",
-      "CTR (0.52%) and CPM (₹40.22) both hit new worst levels again. Prioritize testing a genuinely new creative angle over further spend adjustments within the same ad sets."
+      "Efficiency metrics (cost per chat, CPM, CTR) held roughly flat at last read's depressed levels rather than declining further, a possible sign of stabilization. Confirm with one more read before calling the decline over.",
+      "'VP_Garbhsanskar_Testimonial_VideoAD_19-02-26 – Copy' has now taken on rising spend for a sixth straight read (now ₹4,184) while CTR keeps falling (now 0.38%). Cap this ad's budget.",
+      "'VP_Garbhsanskar_ 27July26' was cut to just ₹95 this window, effectively fully paused. The phase down recommendation has clearly landed.",
+      "Even with the plateau, CTR (0.51%) and CPM (₹40.90) remain at depressed levels. Prioritize testing a genuinely new creative angle over further budget shuffling within existing ad sets."
     ]
   },
   "app_install_ctwa": {
     "narrative": [
-      "Fifth read for this tab: cumulative spend has grown to ₹1,661 across 12 days of history, on 148 chats (from ₹1,500 and 141 chats in the last read) — a cumulative cost per chat of ₹11.22, continuing the same slow drift up seen over the last four reads (₹9.85, ₹10.27, ₹10.64, now ₹11.22). This week's own cost per chat came in higher still at ₹12.25 (92 chats on ₹1,127), a step up from last week's ₹11.10.",
-      "CPM improved sharply to ₹30.97 this window (from ₹50.07), even as CTR (0.82%) and hook rate (25.04%) eased slightly from last read's 0.88%/26.46% — staying in the same broad range rather than showing a clear new direction. Spend remains mostly on the video creative 'VP_AppDownload_Video1' (₹1,021 of this week's ₹1,127, CTR 0.81%); the static variant 'VP_AppDownload_Static-1' got a real budget increase this window (₹106, up from ₹14 — roughly 8x) with CTR at 0.98%, still edging out video but with the gap narrowing sharply as its spend scales up."
+      "Thirteen days of history now (up from 12): cumulative spend has grown to ₹1,754 on 153 chats (from ₹1,661 and 148 chats last read), a cumulative cost per chat of ₹11.47, continuing the same slow drift up seen since this tab started (₹8.98 → ₹9.85 → ₹10.27 → ₹10.64 → ₹11.22 → now ₹11.47). This week's own cost per chat came in higher still at ₹14.20 (71 chats on ₹1,008), a bigger step up from last week's ₹12.25.",
+      "CPM kept improving, down to ₹29.21 (from ₹50.02, and even a touch better than last read's ₹30.97) — a genuinely good and now repeated efficiency signal running in the opposite direction of the cost per chat drift. CTR (0.77%, from 0.97%) and hook rate (25.06%, from 25.67%) both eased slightly, staying within the same broad range seen across prior reads rather than showing a clear new direction.",
+      "'VP_AppDownload_Video1' still carries most of the spend (₹902 of ₹1,008) with CTR easing to 0.76% (from 0.98%). The static variant 'VP_AppDownload_Static-1' kept scaling, up to ₹106 (from ₹14, roughly 7.8x) with CTR holding at 0.98%, still edging out video and now on a full window of data at the higher spend level rather than just a single early spike."
     ],
     "callout": {
-      "title": "Fifth read — cost per chat still drifting up gently",
-      "body": "Cumulative cost per chat has now risen for five straight reads (₹8.98, ₹9.85, ₹10.27, ₹10.64, ₹11.22). Still far cheaper than Seemantonayan's ₹40.30, but the drift hasn't reversed despite the static creative getting more budget this window — worth a closer look if it continues past the next read."
+      "title": "Cost per chat keeps drifting up, now six reads running",
+      "body": "Weekly cost per chat rose again to ₹14.20 (from ₹12.25 last read), extending a trend that has held across every read since this tab started. Still much cheaper than Seemantonayan's ₹40.24, and CPM keeps improving in parallel (₹29.21, another new low), but the cost per chat drift itself has not reversed. Worth a focused look if it continues past the next read."
     },
     "actions": [
-      "Cumulative cost per chat has now risen for five straight reads (₹8.98 → ₹9.85 → ₹10.27 → ₹10.64 → ₹11.22). Still cheap relative to Seemantonayan, but this is a consistent trend now, not noise — worth digging into why.",
-      "Static creative got the budget increase recommended last read (₹14 → ₹106, ~8x) and still holds a slight CTR edge (0.98% vs video's 0.81%), though the gap has narrowed a lot as spend scaled. Keep scaling it gradually and watch whether the CTR edge holds.",
-      "CPM improved notably this window (₹30.97, down from ₹50.07) — a genuinely good efficiency signal working in the other direction from the cost-per-chat drift.",
-      "Continue treating this as an early-stage read (12 days of history). Revisit with a longer baseline once there's a full month or more to compare against."
+      "Weekly cost per chat rose again to ₹14.20 (from ₹12.25), the sixth straight read showing this drift. Investigate whether it's audience fatigue or a mix shift toward the pricier video creative.",
+      "Static creative held its CTR edge (0.98% vs video's 0.76%) at a fuller spend level (₹106, up from ₹14 last read). Continue scaling it gradually.",
+      "CPM improved again to ₹29.21, a new best and a second straight read of meaningful improvement. Keep an eye on whether this offsets the cost per chat drift as spend grows.",
+      "Now 13 days of history (up from 12). Still treat this as an early stage read, but close enough to a full month that the next couple of reads should give a much clearer signal."
     ]
   },
   "umbartha": {
     "narrative": [
-      "Spend rose 4.0% to ₹6,254 (from ₹6,014) while Meta-reported purchases climbed to 18 (from 13, +38.5%) — cost per purchase (Meta) fell 24.9% to ₹347, continuing the broad efficiency improvement this tab has shown for weeks. CTR kept climbing too, up to 2.28% (from 1.84%), while hook rate eased slightly to 24.68% (from 26.34%).",
-      "Shopify's own numbers moved the other way this window: orders fell to 19 (from 23, down 17.4%) and revenue eased to ₹33,830 (from ₹40,952, also down 17.4%), pulling ROAS down to 5.41x (from 6.81x). Meta's 18 purchases and Shopify's 19 orders still line up closely (within 1), so the attribution match that's held for the past two reads is basically intact — this reads as a genuine, if modest, order-volume dip rather than a tracking issue.",
-      "'VP_Broad_AD+_31jul26' is now carrying 100% of ad-set spend (₹6,254), with the sibling ad set fully at ₹0 — the consolidation flagged as 'fully settled' last read has held completely. At the ad level, the anchor 'VP_Umbartha_VideoAD_14-04-2026 – Copy' held spend essentially flat (₹5,137, -1.6%) while CTR climbed to 2.13% (from 1.82%); 'Dynamic Carousle_24Jun26' nearly tripled its spend (₹73 to ₹214) on a strong 2.33% CTR, continuing to look like a promising second creative."
+      "Spend eased 4.9% to ₹6,018 (from ₹6,329) while Meta reported purchases dipped to 15 (from 17, down 11.8%) — cost per purchase (Meta) rose 7.8% to ₹401. CTR improved notably though, up to 2.26% (from 1.98%, up 14.0%), a genuinely good engagement signal even as purchase volume eased and hook rate fell 12.7% to 23.34%.",
+      "Shopify's own numbers moved further the same direction this window: orders fell to 17 (from 25, down 32.0%) and revenue eased to ₹30,269 (from ₹44,513, also down 32.0%), pulling ROAS down to 5.03x (from 7.03x). This is now a second straight read of softer Shopify performance after weeks of growth. Meta's 15 purchases and Shopify's 17 orders are close but the gap has widened slightly versus the near exact match seen last read, worth a clean eye next time though nothing here points to a tracking break.",
+      "'VP_Broad_AD+_10Jun26' dropped fully to ₹0 (from ₹2,893) while 'VP_Broad_AD+_31jul26' now carries all of the tab's spend (₹6,018, up 75.1% from ₹3,437) — the consolidation flagged as complete last read has held. At the ad level, 'Dynamic Carousle_24Jun26' kept scaling fast (₹378, up 365.1% from ₹81) on a strong 2.46% CTR, and 'Dynamic Catalog_24July26' nearly doubled to ₹861 (up 98.3%) with CTR climbing to 2.82% — both continuing to look like promising second creative options as the anchor ad 'VP_Umbartha_VideoAD_14-04-2026 – Copy' eased back 17.7% to ₹4,564 with CTR up slightly to 2.08%."
     ],
     "callout": {
-      "title": "Shopify orders and ROAS eased this window — worth a clean read before reacting",
-      "body": "Shopify orders and revenue both fell about 17% this window and ROAS eased to 5.41x (from 6.81x) — the first dip after weeks of growth. Meta and Shopify purchase counts still line up closely (18 vs 19), so this doesn't look like an attribution problem, just a real order-volume dip. Worth confirming with the next read before treating it as anything more than normal week-to-week variation."
+      "title": "Shopify orders and ROAS have now eased for two straight reads",
+      "body": "Shopify orders and revenue both fell 32.0% this window and ROAS dropped to 5.03x (from 7.03x), extending the dip flagged last read rather than reversing it. Meta and Shopify purchase counts (15 vs 17) still sit reasonably close, so this still doesn't look like a tracking problem, but two consecutive reads of declining orders is enough to treat as a real trend worth investigating rather than normal noise."
     },
     "actions": [
-      "Shopify orders and ROAS eased this window (orders -17.4%, ROAS to 5.41x from 6.81x) after weeks of growth. Not a tracking issue (Meta and Shopify purchase counts still align), but worth watching the next read before adding more budget.",
-      "'VP_Umbartha_VideoAD_14-04-2026 – Copy' has anchored spend for many weeks with flat spend but rising CTR (2.13%, up from 1.82%). Get a close variant into testing so a fresh option is ready before frequency (currently 1.34) starts capping it.",
-      "'Dynamic Carousle_24Jun26' nearly tripled spend (₹73 to ₹214) on a strong 2.33% CTR. Continue scaling it gradually as a second creative option.",
-      "The ad-set consolidation onto 'VP_Broad_AD+_31jul26' is now complete (100% of spend, sibling at ₹0). No action needed, just confirming it's fully settled."
+      "Shopify orders and ROAS have now declined for two straight reads (orders down 32.0% this window, ROAS to 5.03x from 7.03x). Worth digging into whether this is seasonal, creative fatigue, or a genuine demand dip before adding more budget.",
+      "Hook rate fell a notable 12.7% this window (to 23.34%) — a new signal for this tab worth watching alongside the softer purchase numbers.",
+      "'Dynamic Carousle_24Jun26' and 'Dynamic Catalog_24July26' both scaled hard this window (up 365.1% and 98.3% respectively) while holding or improving CTR. Continue leaning into these as the anchor ad eases back.",
+      "The ad-set consolidation onto 'VP_Broad_AD+_31jul26' is now fully complete (100% of spend, sibling at ₹0). No action needed, just confirming it's settled."
     ]
   },
   "vedic_sanskar": {
     "narrative": [
-      "Spend rose 15.3% to ₹12,938 (from ₹11,216) on 44 Meta purchases, up slightly from 43 — cost per purchase rose for a second straight window, up 12.7% to ₹294 (from ₹261), and CPM climbed again too, up 14.7% to ₹181.77 (from ₹158.41). This confirms the cost pressure flagged last read as a real trend rather than a one-off.",
-      "Despite that, Shopify's own numbers actually accelerated: orders rose 12.5% to 54 (from 48), revenue jumped 26.0% to ₹44,279 (from ₹35,137), and ROAS improved to 3.42x (from 3.13x) — the best ROAS reading in several weeks. This split (Meta-reported cost per purchase rising while real Shopify sales grow faster) lines up with this tab's known attribution-lag pattern, where Meta's most recent days of purchases are under-reported at pull time and catch up later — worth treating the rising Meta-side CPR as likely lag rather than a genuine efficiency problem, given Shopify tells a clearly positive story.",
-      "Hook rate fell again, down 6.1% to 12.48% (from 13.29%) — a fifth consecutive read of decline, still without a clear reversal despite repeated recommendations to test a new opening frame. Frequency stayed essentially flat (1.372, from 1.374), so the saturation risk flagged weeks ago continues to ease.",
-      "'VP_Kundali-Namkaran_VideoAD2_07-04-2026' more than doubled spend this window (₹3,130 to ₹6,626, +111.7%) while CTR eased to 1.09% (from 1.27%) — now clearly the dominant ad by spend. Its retired sibling 'VP_Kundali-Namkaran_VideoAD_07-03-2026' is fully at ₹0 again, confirming the retirement has held. 'Numerology_Static_13july26' extended its growth streak to a fifth read (₹2,217 to ₹3,820, +72.4%) with CTR essentially flat (1.52%, from 1.53%) — unlike the anchor ad, this one's growth isn't coming with a CTR cost."
+      "Spend rose 8.4% to ₹12,729 (from ₹11,746) on 40 Meta purchases, down slightly from 44 — cost per purchase rose for a third straight window, up 19.2% to ₹318 (from ₹267), and CPM climbed again too, up 18.1% to ₹187.62 (from ₹158.91). The cost pressure flagged over recent reads keeps showing up consistently.",
+      "Shopify's own numbers told a steadier story: orders eased slightly to 47 (from 51, down 7.8%) but revenue still grew 8.2% to ₹40,130 (from ₹37,086), leaving ROAS essentially flat at 3.153x (from 3.157x) rather than continuing last read's acceleration to 3.42x. That mild pullback in orders, alongside Meta's own purchase count easing too, is consistent with this tab's known attribution lag pattern (recent days under-reported at pull time) rather than a clear new problem, but it's worth confirming the ROAS climb resumes on the next read rather than assuming lag explains it every time.",
+      "Hook rate fell again, down 13.9% to 11.61% (from 13.48%) — a sixth consecutive read of decline, still without a clear reversal despite repeated recommendations to test a new opening frame. Frequency stayed essentially flat (1.378, from 1.382), so the saturation risk flagged weeks ago continues to ease.",
+      "'VP_Kundali-Namkaran_VideoAD2_07-04-2026' grew spend again this window (₹4,262 to ₹6,374, up 49.6%) while CTR eased further to 1.06% (from 1.22%) — now clearly the dominant ad by spend with engagement continuing to soften as it scales. Its retired sibling 'VP_Kundali-Namkaran_VideoAD_07-03-2026' stayed fully at ₹0, confirming the retirement continues to hold. 'Numerology_Static_13july26' nearly doubled again (₹2,101 to ₹4,193, up 99.6%) but CTR dipped to 1.49% (from 1.59%) — the first real softening on this ad after several reads of flat engagement alongside its growth."
     ],
     "callout": {
-      "title": "Rising Meta cost per purchase, but Shopify sales are accelerating",
-      "body": "Cost per purchase (Meta) and CPM both rose for a second straight read, but Shopify orders (+12.5%) and revenue (+26.0%) grew even faster, pushing ROAS to 3.42x — its best level in weeks. This split matches the known Meta attribution-lag pattern for this tab (recent purchases under-reported at pull time, catching up later), so the rising Meta-side cost figures likely overstate the real picture."
+      "title": "Hook rate now down for a sixth straight read",
+      "body": "Hook rate fell another 13.9% this window (to 11.61%), extending a decline that has now run for six consecutive reads without the recommended creative refresh showing up in the numbers. Meanwhile the Meta-side cost pressure (CPR and CPM both up again) continues, while Shopify ROAS held flat rather than resuming last read's climb. Worth treating the hook rate fix as the clear top priority for this tab."
     },
     "actions": [
-      "Hook rate has now declined for a fifth straight read (down 6.1% this window). The recommendation to swap the top ad's opening frame still hasn't shown up in the numbers — treat this as the priority creative fix this week.",
-      "Meta-reported cost per purchase and CPM both rose again, but Shopify orders and revenue grew faster (ROAS up to 3.42x). This looks like attribution lag, not a real efficiency problem — don't pull back budget on the strength of the Meta-side numbers alone.",
-      "'VP_Kundali-Namkaran_VideoAD2_07-04-2026' more than doubled spend this window and is now clearly the dominant ad. Watch CTR (now 1.09%, down from 1.27%) closely as spend keeps concentrating here.",
-      "Frequency growth remains essentially flat (1.372) — the saturation risk flagged a few weeks back continues to ease. No action needed, just confirming the good trend holds."
+      "Hook rate has now declined for a sixth straight read (down 13.9% this window). The recommendation to swap the top ad's opening frame still hasn't shown up in the numbers — treat this as the priority creative fix.",
+      "Meta-reported cost per purchase and CPM both rose for a third straight window, while Shopify ROAS held roughly flat (3.153x) rather than continuing to climb. Watch the next read closely before deciding whether this is lag or a real shift.",
+      "'VP_Kundali-Namkaran_VideoAD2_07-04-2026' keeps growing (now ₹6,374, up 49.6%) with CTR continuing to soften (now 1.06%, down from 1.22%). Watch this closely as spend keeps concentrating here.",
+      "'Numerology_Static_13july26' showed its first CTR softening (1.49%, down from 1.59%) after several reads of flat engagement during growth. Not urgent yet, but worth tracking alongside the anchor ad's similar pattern."
     ]
   }
 }
