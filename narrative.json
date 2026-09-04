@@ -82,5 +82,22 @@
       "'UGC_Kundali-Ad_11Aug26' is now on a third consecutive read of improving CTR while scaling. Continue testing it as a larger replacement for the budget going into 'Numerology_v1_2july26'.",
       "'VP_Kundali-Namkaran_VideoAD_26Jun26' is on a third consecutive read of large spend increases without fatigue (frequency flat at 1.25). Keep watching, but this is no longer a fresh concern on its own."
     ]
+  },
+  "ganesh_sthapana": {
+    "narrative": [
+      "This is the first real read for this tab. The Ganesh Sthapana campaign only started spending in late August, so the comparison window (21–27 Aug) carries zero paid spend while the pull window (28 Aug–3 Sep) is where it actually began running. Spend reached ₹7,811 across the week, converting to 76 Meta-attributed purchases at ₹102.78 cost per purchase, ₹114.46 CPM, 2.61% CTR, 25.23% hook rate, and 1.18 frequency — no fatigue signal at this early stage. On the Shopify side, Ganesh Sthapana Kit orders jumped from 8 (organic, before paid spend started) to 84 this window, and revenue from ₹3,383 to ₹35,691, putting ROAS on paid spend at 4.57x for this first read.",
+      "Nearly all spend (₹7,512 of ₹7,811, 96%) is concentrated in a single ad, 'Ganesh_sthapana_Ad1', which is also the strongest performer at 2.62% CTR. The other three ads are still at test-budget levels: 'Ganesh_sthapana_Ad2' (₹177, 2.30% CTR), 'Ganesh_Sthapana_static-1' (₹85, 2.37% CTR), and 'Ganesh_sthapana_NRI_ad' (₹38, 1.67% CTR). A second ad set, 'Ganesh_Sthapana_2sep26', only started 2 Sep with just ₹214 in it so far — too early to read.",
+      "Given the launch timing and product, this looks like a festival-driven push tied to the Ganesh Chaturthi season, which is worth keeping in mind: demand and efficiency may move quickly as the festival approaches and passes, so early reads here should be treated as more time-sensitive than the account's evergreen tabs."
+    ],
+    "callout": {
+      "title": "First read: a strong opening ROAS (4.57x), but it's really one ad's performance so far",
+      "body": "This tab's first real week of paid spend produced 76 purchases at a 4.57x ROAS and a 2.61% CTR — a strong opening read. But 96% of spend is concentrated in a single ad ('Ganesh_sthapana_Ad1'), so this result reflects one ad's performance rather than a tested portfolio yet. Since this looks like a time-limited, festival-driven push, it's worth deciding quickly whether to diversify testing across the other three ads or lean further into the one that's already working."
+    },
+    "actions": [
+      "This is the tab's first real read since launch (28 Aug): 76 purchases, ₹102.78 cost per purchase, 4.57x ROAS. Treat this as an early baseline, not yet a trend — there's no prior paid-spend window to compare against.",
+      "96% of spend is concentrated in 'Ganesh_sthapana_Ad1' (2.62% CTR). It's working, but consider testing meaningful budget into the other three ads soon to find a second winner before the likely festival window narrows.",
+      "'Ganesh_Sthapana_2sep26' is a brand-new ad set with only ₹214 in it so far — too early to read, but track it next pull.",
+      "There's no ops funnel for this tab (same as Umbartha and Vedic Sanskar). Shopify orders (84) and Meta-attributed purchases (76) are reasonably close for a first read; watch for a widening gap as volume grows."
+    ]
   }
 }
