@@ -1,0 +1,103 @@
+{
+  "vastu_shanti": {
+    "narrative": [
+      "This window is 5-11 Sep against 29 Aug-4 Sep. The 7, 8 and 9 Sep export gap flagged in the previous pull has not actually closed: those three days are still missing, so only 4 of 7 days (5, 6, 10, 11) have real data this window, versus 6 of 7 (all but 4 Sep) in the prior window. The fix noted last time did take hold for new day-to-day collection — 10 and 11 Sep are both clean — but the historical hole for 7-9 Sep was never backfilled. Because 3 of this window's 4 real days (5, 6, 10) are the same days used in the previous pull's read, several ratio metrics land close to last time's numbers rather than showing fresh movement; that overlap should be kept in mind rather than read as stagnation. Per real day, spend eased a modest 5.4% (₹1,419/day vs ₹1,501/day) while leads per day fell a real 27.9% (27.8/day vs 38.5/day) — a genuine softening, not just a gap artifact. The rate metrics, unaffected by day count, confirm it: cost per lead rose a real 31.2% to ₹51.14 (from ₹38.98), and CPM rose 11.2% to ₹73.03. CTR held essentially flat (-0.7%) and hook rate actually improved 8.6% to 28.00%, a genuine bright spot.",
+      "Ad-level spend totals are still gap-affected and shouldn't be read as real cuts, but CTR movement is informative: 'VP_Animated-Static_17July26' stayed the top spender on the days it ran with CTR little changed, while 'VP_VastuShanti_25Aug26' eased further (2.32% to 2.10%). 'VP| Vastu video|NewContent|07Jul26 – Copy' picked up spend (₹1,131 to ₹1,688) with CTR essentially flat (1.30% to 1.29%). Two small ads jumped in CTR on very little spend — 'VP_Vastu-Shanti_17July26' (1.15% to 2.90%) and 'VP_Shravan Video_17July26' (0% to 1.73%) — too thin to call a trend yet but worth watching if spend increases.",
+      "The ops funnel remains completely stalled: the sales sheet is still capped at 31 Aug, unchanged from the last several pulls, and is now 11 days behind this window's end rather than last pull's 10. This has been flagged for multiple consecutive pulls without movement and warrants a direct check-in with the sales team rather than another automated note."
+    ],
+    "callout": {
+      "title": "Last pull's export-gap 'fix' didn't backfill the hole — 7-9 Sep are still missing, but the newest days are clean",
+      "body": "10 and 11 Sep both came through cleanly, confirming the pipeline itself is healthy again, but 7, 8 and 9 Sep remain unrecovered, leaving this window at 4 of 7 real days. Looking past the raw totals, spend per real day eased a modest 5.4% while leads per day fell a real 27.9% and cost per lead rose 31.2% to ₹51.14 — a genuine efficiency dip, though smaller than the raw -51.9% lead headline implies. Hook rate improved for a second straight read (+8.6%), a real positive. The ops sheet is now 11 days stale with zero movement across several pulls."
+    },
+    "actions": [
+      "Cost per lead rose a real 31.2% to ₹51.14 and leads per real day fell 27.9%. Worth a closer look at targeting or creative fatigue even with the thinner-than-usual sample.",
+      "7, 8 and 9 Sep are still missing from the archive despite last pull's note that the export step was fixed. If backfilling matters for historical accuracy, re-pull those three days specifically from Meta Ads Manager; otherwise no action needed since 10-11 Sep confirm current collection is healthy.",
+      "The ops sheet has now been frozen at 31 Aug and 11 days stale for several consecutive pulls. Escalate directly with the sales team rather than flagging again as routine.",
+      "Hook rate improved for a second consecutive read (now +8.6%). No action needed, but worth confirming it holds once a fully clean 7-day window is available."
+    ]
+  },
+  "seemantonayan": {
+    "narrative": [
+      "Same continuing gap here: 7, 8 and 9 Sep are still missing, leaving only 4 of 7 days (5, 6, 10, 11) with real data this window against 6 of 7 last window. Per real day, spend fell a real 9.8% (₹1,214/day vs ₹1,346/day) while chats per day dropped a sharper 25.6% (49.5/day vs 66.5/day) — a genuine decline beyond the gap. The rate metrics tell a mixed story: cost per chat rose a real 21.2% to ₹24.53, and CPM jumped another 50.3% to ₹38.42, continuing (at a somewhat slower rate) the sharp CPM run-up flagged as the sharpest signal last pull (+79.5% then). CTR fell back 23.7% to 1.76%, reversing the flagship ad's brief CTR recovery noted last time at the tab level, even though hook rate kept improving — up a further 38.8% to 12.60%, now two straight reads of real hook-rate recovery after the multi-pull collapse flagged earlier this month.",
+      "Ad-level spend deltas remain gap-affected, but CTR context still holds: 'VP_Baby-Shower_CarouselAD_17Aug26', the tab's flagship, held its CTR gain from last pull and nudged it slightly higher again (3.12% to 3.16%), a second consecutive small improvement even as the tab-wide CTR fell — suggesting the softness is concentrated elsewhere in the mix rather than on the flagship ad itself. 'VP_Garbhsanskar_Testimonial_VideoAD_19-02-26 – Copy' continued weakening, CTR down again to 0.28% (from 0.45%). Two smaller ads regained some spend with mixed CTR: 'VP_Garbhsanskar_ 27July26' debuted at ₹934 spend with a 0.58% CTR, and 'VP_Garbhsanskar_Testimonial_VideoAD_15Jun26' grew to ₹422 spend but CTR stayed weak (0.16%).",
+      "The ops funnel is stalled the same way as Vastu Shanti's — still capped at 31 Aug and now 11 days behind the window's end. The same direct escalation is warranted here."
+    ],
+    "callout": {
+      "title": "CPM keeps climbing and tab-wide CTR fell back, but the flagship ad and hook rate both kept improving",
+      "body": "With 7-9 Sep still unrecovered, this window again has only 4 of 7 real days. Per real day, spend fell 9.8% and chats fell a sharper 25.6%. CPM rose another 50.3% to ₹38.42 (following +79.5% last pull), the clearest ongoing concern on this tab. Tab-wide CTR fell 23.7%, but 'VP_Baby-Shower_CarouselAD_17Aug26' — the flagship ad — actually held and slightly extended its own CTR gain (3.12% to 3.16%), and hook rate posted a second straight real improvement (+38.8%). The softness looks concentrated in CPM and the broader ad mix rather than the core creative."
+    },
+    "actions": [
+      "CPM has now risen for a second consecutive pull (+79.5%, then +50.3%). Investigate audience saturation or rising competition directly rather than waiting on a cleaner window.",
+      "Tab-wide CTR fell 23.7% even as the flagship ad held its own CTR gain — worth checking whether the softness is isolated to specific ad sets before making a broad creative call.",
+      "Hook rate has now improved for two straight reads (+38.8% this pull, following the slowed collapse flagged last time). Encouraging; confirm it holds with a full 7-day window.",
+      "Ops data remains frozen at 31 Aug and is now 11 days stale, same issue as Vastu Shanti. Escalate directly rather than flagging again as routine."
+    ]
+  },
+  "app_install_ctwa": {
+    "narrative": [
+      "This tab is caught in the same 7, 8, 9 Sep gap, and its already-thin sample makes it hit hardest here: only 4 chats total were recorded this window (down from 36), on the same 4 real days (5, 6, 10, 11) as the other tabs. Spend per real day fell a real 41.1% (₹60/day vs ₹101/day) and chats per day fell far more sharply, from 6.0/day to 1.0/day (-83.3%) — a real, sharp pullback in results, though at this event count single-day swings can move the numbers heavily on their own. Cost per chat, a same-basis ratio unaffected by day count, jumped to ₹59.56 from ₹16.85 (+253.6%); CTR fell to 0.17% and hook rate to 0.35%, both consistent with the extreme volatility flagged on this tab in every prior read and still not a reliable trend at this scale.",
+      "'VP_AppDownload_Static-1' remains the near-exclusive spend recipient (₹223 of the tab's ₹238 total this window), continuing the near-total budget concentration flagged repeatedly, with its own CTR falling further (0.73% to 0.17%). 'VP_AppDownload_Video1' stayed minimal (₹16 spend), CTR down to 0.10% from 0.80%."
+    ],
+    "callout": {
+      "title": "Still the tab where thin volume makes single-pull numbers unreliable — treat this as noise, not signal",
+      "body": "Only 4 chats were recorded this window against 36 last window, and even the per-day comparison shows a real drop (6.0 to 1.0 chats/day). Cost per chat and CTR both moved sharply (+253.6% and -76.8% respectively) largely as a function of so few events. Nothing here should change budget decisions until a full 7-day window is available and volume has built up further."
+    },
+    "actions": [
+      "This pull's numbers (4 chats, 4 real days) are too thin to act on. Hold current spend and wait for a clean 7-day window and more volume before making any budget change.",
+      "'VP_AppDownload_Static-1' still holds nearly all spend (94% this window), unchanged concentration from prior reads. Once a fuller read is available, revisit testing a second ad more seriously.",
+      "CTR and hook rate remain highly volatile at this sample size (0.17% and 0.35% this window). Continue treating single-read swings on this tab as noise rather than trend.",
+      "7, 8 and 9 Sep are still missing from the export archive. This tab is small enough that even a partial gap can swing the read heavily — re-pull those days if a clean historical record is needed here specifically."
+    ]
+  },
+  "umbartha": {
+    "narrative": [
+      "Same 7, 8, 9 Sep gap here — only 4 of 7 days (5, 6, 10, 11) have data. Spend per real day held nearly flat (-2.3%: ₹885/day vs ₹906/day), but Shopify orders and revenue per day fell much further — from 2.0/day to 1.0/day orders (-50.0%) and ₹3,561/day to ₹1,781/day revenue (-50.0%) — a real conversion-efficiency decline on the days captured, not a gap artifact. The rate metrics confirm it: cost per purchase (Meta) rose a real 30.2% to ₹590.26, and ROAS fell a real 48.8% to 2.01x (from 3.93x). This extends the reversal flagged last pull, when ROAS had already fallen to 2.28x from a four-pull high of 4.07x — this is now a second consecutive real decline, landing below even that already-reduced level. Hook rate also collapsed sharply, down 78.2% to 5.59% from 25.61%, the steepest single-metric move on this tab this pull and worth flagging on its own regardless of the ROAS story.",
+      "Ad-level spend deltas aren't fully reliable given the gap, but the reallocation pattern continues clearly: 'VP_Umbarthakit_18july26', already flagged as the tab's clearest scaling candidate, grew again sharply (₹80 to ₹2,338, nearly 30x) while CTR held strong and even improved (2.16% to 2.44%) — the standout performer on the tab despite the broader ROAS slide. 'VP_Umbartha_VideoAD_14-04-2026 – Copy' kept shrinking (₹2,491 to ₹119) with CTR softening further (2.50% to 1.55%). 'VP_Umbartha_NewVedio_copy' also shrank (₹2,868 to ₹566) with CTR essentially flat. A new ad, 'VP_Umbartha_Catalog_11Sept26', debuted at ₹519 spend with a strong 3.62% CTR.",
+      "Given ROAS is now sliding for a second straight pull while the tab's best-performing ad ('VP_Umbarthakit_18july26') keeps absorbing spend with strong CTR, the drag looks concentrated in the ads being wound down rather than the overall creative mix — worth confirming directly rather than treating it purely as a gap-window artifact."
+    ],
+    "callout": {
+      "title": "ROAS fell for a second straight pull, and hook rate collapsed sharply — both hold up after adjusting for the gap",
+      "body": "Shopify orders and revenue per real day both fell 50% while spend per day was nearly flat, confirming genuine conversion softening rather than gap noise. ROAS fell to 2.01x, extending last pull's reversal from a 4.07x high through 2.28x and now to a new low this cycle. Hook rate also collapsed 78.2% to 5.59%. Against that backdrop, 'VP_Umbarthakit_18july26' kept scaling with strong, improving CTR (2.16% to 2.44%) — the one clear bright spot worth leaning into while the broader ROAS decline is investigated."
+    },
+    "actions": [
+      "ROAS has now fallen for two consecutive pulls (4.07x → 2.28x → 2.01x). Investigate directly — landing page, offer, or seasonal demand — rather than waiting for the gap to resolve.",
+      "Hook rate collapsed 78.2% to 5.59% this pull, the sharpest single move on the tab. Check whether a specific creative or placement shift is driving this before the next pull.",
+      "'VP_Umbarthakit_18july26' kept growing (now nearly 30x its prior spend) with CTR improving to 2.44%. Continue treating it as the primary scaling candidate and consider shifting more budget its way.",
+      "Re-pull the missing 7, 8, 9 Sep exports if a clean historical record matters here — the real ROAS decline detected this pull makes that record more valuable than usual."
+    ]
+  },
+  "vedic_sanskar": {
+    "narrative": [
+      "Same export gap (7, 8, 9 Sep missing, only 5, 6, 10, 11 present, 4 of 7 days). Unlike most other tabs, the per-day-adjusted story here is genuinely positive again: spend per real day fell a modest 4.7% (₹1,651/day vs ₹1,732/day) while Meta purchases per day rose 21.0% (6.2/day vs 5.2/day), Shopify orders per day rose 36.8% (7.8/day vs 5.7/day), and Shopify revenue per day rose 26.5% (₹5,874/day vs ₹4,642/day) — less spend, more results, for a second consecutive pull. The rate metrics confirm it cleanly: cost per purchase (Meta) improved a real 21.2% to ₹264.12, essentially matching last pull's already-improved ₹266.30 read, and ROAS held at a similarly strong level, up 32.8% to 3.56x (last pull: 3.61x) — the efficiency-improvement trend flagged in recent pulls is holding steady rather than being a one-off.",
+      "Ad-level totals are gap-affected, but the reallocation pattern continues exactly as flagged before: 'VP_Kundali-Namkaran_VideoAD2_07-04-2026' kept absorbing budget (₹75 to ₹1,188) with CTR improving yet again, now 1.88% (from 1.59%), extending its now-multi-pull pattern of getting better as it scales — still the clearest bright spot on the tab. 'VP_Kundali Static_25Aug26' also grew (₹83 to ₹697) with CTR easing modestly (1.84% to 1.51%), matching the pattern from last pull almost exactly. 'Numerology_Static_11Aug26' dropped to zero spend this pull (from ₹2,016), a clean cut rather than a gap artifact since 5, 6, 10 and 11 Sep are all real days here. A new ad, 'VP_Baby_Kundali_Static_10sept26', debuted at ₹749 spend with a 1.45% CTR.",
+      "This is now at least a third consecutive pull where the tab's genuine performance is improving even as spend eases — the pattern looks durable rather than a gap-window coincidence, and is worth a modest test spend increase given the consistency of the read."
+    ],
+    "callout": {
+      "title": "Efficiency improvement is holding for a third straight pull — the strongest, most consistent story across all tabs this cycle",
+      "body": "Spend per real day eased 4.7% while purchases, orders, and revenue per day all rose (+21.0%, +36.8%, +26.5%). Cost per purchase (Meta) improved to ₹264.12 and ROAS held at 3.56x, both landing almost exactly where last pull's already-strong reads did (₹266.30 and 3.61x), confirming this is a durable trend rather than a single good read. 'VP_Kundali-Namkaran_VideoAD2_07-04-2026' keeps improving CTR as it scales, still the clearest bright spot on the tab."
+    },
+    "actions": [
+      "ROAS has now held at or above 3.5x for two consecutive pulls (3.61x, then 3.56x) alongside falling spend per day. Given this consistency, test a modest spend increase to see if the efficiency holds at scale.",
+      "'VP_Kundali-Namkaran_VideoAD2_07-04-2026' continues improving CTR while absorbing more budget (now 1.88%, up from 1.59% two pulls ago). Keep prioritizing it.",
+      "'Numerology_Static_11Aug26' dropped to zero spend on a fully real-day basis this pull (not a gap artifact). Confirm whether this is a deliberate pause.",
+      "Re-pull the missing 7, 8, 9 Sep exports when convenient — with the tab's genuine improvement continuing, a clean historical record is more valuable here than on tabs with flatter trends."
+    ]
+  },
+  "ganesh_sthapana": {
+    "narrative": [
+      "Also caught in the 7, 8, 9 Sep gap (only 5, 6, 10, 11 present, 4 of 7 days), now on its fifth real read. The scale-up pace seen in the last two pulls has cooled noticeably: spend per real day rose a much smaller 9.0% this window (₹1,396/day, from ₹1,280/day), a sharp deceleration from last pull's +66.8% acceleration. But results didn't recover alongside the slower spend growth — if anything they weakened further: Meta purchases, Shopify orders, and Shopify revenue per day all fell meaningfully (-36.0%, -34.1%, -31.1% respectively), a much sharper drop than last pull's roughly-flat read (-1.8%, -2.8%, +0.6%). That combination — spend growth cooling while results genuinely soften — is a different and arguably more concerning pattern than simple scaling compression: cost per purchase (Meta) landed at ₹174.49, matching last pull's already-elevated read almost exactly, and ROAS held near last pull's low at 2.83x (vs 2.76x last time). The compression isn't worsening further, but it isn't recovering either, even with spend growth easing off.",
+      "'Ganesh_sthapana_Ad1' remains the dominant ad by a wide margin, though CTR kept softening (2.60% to 2.32%), continuing the multi-pull pattern flagged before. The diversification push kept building at a similar pace to last pull: 'Ganesh_Sthapana_carousel' held a meaningful share of spend with a strong 3.51% CTR, and 'Ganesh_sthapana_UGC' continued running with a similarly strong 3.19% CTR — both figures close to last pull's, consistent with the overlapping real-day set rather than fresh movement. 'Ganesh_sthapana_NRI_ad' again shows zero spend this pull; with 5, 6, 10 and 11 Sep all real days, this now looks like a deliberate pause rather than a data gap.",
+      "With spend growth cooling but results still softening and efficiency metrics flat at an already-compressed level, this reads less like normal scaling give-back and more like the tab settling into a lower-efficiency plateau. Worth a direct check on whether the flagship ad's continued CTR softening is now the binding constraint, independent of how fast spend is scaling."
+    ],
+    "callout": {
+      "title": "Spend growth cooled sharply, but results kept softening — efficiency is now plateaued rather than actively compressing or recovering",
+      "body": "Per real day, spend growth slowed to +9.0% (from +66.8% last pull), yet purchases, orders, and revenue per day all fell further (-36.0%, -34.1%, -31.1%). Cost per purchase (₹174.49) and ROAS (2.83x) both landed almost exactly where last pull's already-compressed reads did, suggesting the tab has settled at this lower efficiency level rather than continuing to worsen. The flagship ad's CTR keeps softening (now 2.32%) even as the carousel and UGC ads hold strong CTRs in the 3.2-3.5% range — the diversification push looks like the right call, but hasn't yet been enough to offset the flagship's fade."
+    },
+    "actions": [
+      "Results kept softening even as spend growth cooled — this looks less like normal scaling compression and more like a real efficiency plateau. Investigate the flagship ad's continued CTR decline directly.",
+      "'Ganesh_sthapana_Ad1' CTR keeps softening (now 2.32%, down from 2.60%) while still carrying most of spend. Continue shifting incremental budget toward the carousel and UGC ads, both posting 3.2%+ CTR.",
+      "'Ganesh_sthapana_NRI_ad' shows zero spend across a fully real-day window this pull. Confirm this is a deliberate pause rather than an oversight.",
+      "Re-pull the missing 7, 8, 9 Sep exports for this tab specifically — with efficiency now plateaued rather than clearly trending either way, a clean daily record would help confirm whether this is stabilizing or about to move again."
+    ]
+  }
+}
