@@ -1,103 +1,103 @@
 {
-  "vastu_shanti": {
-    "narrative": [
-      "Window is 22 to 28 September against 15 to 21 September. Because 23 September is still a gap in the source data, the current window holds 6 real days against 7 in the prior one, so per day figures are the fairer read. Totals looked flat (spend ₹10,428 vs ₹10,775, leads 194 vs 204), but per day spend rose 12.9% (₹1,738 vs ₹1,539) and leads rose 11.0% (32.3 vs 29.1). Cost per lead eased up only slightly to ₹53.75 (from ₹52.82, +1.8%), so the extra budget is converting at nearly the same efficiency. CPM rose 13.4% to ₹77.36 (from ₹68.22), continuing the pricing pressure flagged last pull, while CTR edged up to 1.11% (from 1.08%) and hook rate held near 26.1%.",
-      "The strong stretch flagged last pull continued: 25 to 28 September delivered 35, 44, 35 and 34 leads, four straight days at 34 or more, and 28 September came in at a ₹45.8 cost per lead on ₹1,558 spend, the best single day efficiency in the window. Two strong days in a row has now become four, so the plateau reads as broken to the upside.",
-      "Budget kept rotating away from the dominant ad: 'VP_Animated-Static_17July26' fell to ₹5,812 (from ₹7,536) at a below average 0.79% CTR. 'VP| Vastu video|NewContent|07Jul26 – Copy' picked up the slack, rising to ₹1,285 (from ₹268) at a healthy 1.45% CTR. 'VP_Vastu-Shanti_17July26' grew to ₹342 (from ₹44) with CTR up to 2.86%, the best in the account. A new ad, 'VP_Animated-Static_28Sept26', started on 28 September with ₹280 of spend and a 0.88% CTR, similar in profile to the older static it may replace."
-    ],
-    "callout": {
-      "title": "Four straight days of 34 plus leads, with CPM still climbing",
-      "body": "Leads held at 34 to 44 a day from 25 to 28 September while per day spend rose about 13%, and CPL barely moved (₹53.75 vs ₹52.82). The watch item is CPM, up 13.4% to ₹77.36, which is following an 8.6% rise last pull. So far volume is absorbing it, but any softening in lead flow would push CPL up quickly."
-    },
-    "actions": [
-      "Give 'VP_Vastu-Shanti_17July26' a larger test budget. It has the best CTR in the account (2.86%) and only ₹342 of spend.",
-      "'VP| Vastu video|NewContent|07Jul26 – Copy' is scaling at 1.45% CTR (₹1,285). Keep letting it take share from the static, and watch for fatigue.",
-      "'VP_Animated-Static_28Sept26' has 0.88% CTR on day one, in line with the older static it resembles. Give it two or three more days before deciding whether it earns budget.",
-      "CPM is up 13.4% this pull after 8.6% last pull. If CPL starts rising with it, review placements and audience overlap between the two Advantage+ and New House ad sets."
-    ]
+ "vastu_shanti": {
+  "narrative": [
+   "Window is 23 to 29 September against 16 to 22 September. 23 September is still missing from the source data, so the current window holds 6 real days against 7, and per day figures are the fairer read. Totals look flat (spend ₹10,248 vs ₹10,910, leads 194 vs 195), but per day spend rose 9.6% (₹1,708 vs ₹1,558) and leads rose 16% (32.3 vs 27.9). Cost per lead improved 5.6% to ₹52.82 (from ₹55.95), so the extra budget is converting slightly better, not worse.",
+   "CPM rose 18.1% to ₹81.04 (from ₹68.59) while CTR edged up to 1.16% (from 1.05%) and hook rate held near 27%. The strong stretch continued: 25 to 28 September delivered 35, 44, 35 and 34 leads, and 29 September still produced a healthy day. Pricing pressure is the one trend that keeps building, but higher CTR is absorbing it.",
+   "Budget kept rotating away from the dominant ad: 'VP_Animated-Static_17July26' fell to ₹4,781 (from ₹7,718) at 0.81% CTR. 'VP| Vastu video|NewContent|07Jul26 – Copy' rose to ₹1,543 (from ₹214) at 1.32% CTR, and 'VP_Vastu-Shanti_17July26' grew to ₹544 (from ₹41) with CTR up to 2.54%, the best in the account. The new 'VP_Animated-Static_28Sept26' started with ₹617 of spend at 0.84% CTR."
+  ],
+  "callout": {
+   "title": "Leads up 16% per day and CPL down, but CPM is up 18%",
+   "body": "Per day leads rose from 27.9 to 32.3 while CPL fell to ₹52.82. CPM has now climbed for a third straight pull (₹68.59 to ₹81.04 this time). Volume and CTR are absorbing it for now, but a dip in lead flow would push CPL up quickly."
   },
-  "seemantonayan": {
-    "narrative": [
-      "Window is 22 to 28 September against 15 to 21 September, with 23 September still missing so the current window has 6 real days against 7. The chat decline is now the sharpest in weeks: chats fell to 287 (from 526) and cost per chat rose to ₹34.16 (from ₹20.93, +63%). Per day, chats dropped 36% (47.8 vs 75.1) while spend per day rose 3.9%. Part of the gap is that the prior window contained the 19 September spike of 123 chats, but even excluding that day the prior window averaged about 67 chats a day, so the decline is real rather than just a comparison artefact. CTR fell to 1.59% (from 2.49%) and CPM rose 16.3% to ₹42.77.",
-      "Hook rate kept climbing, to 16.24% (from 9.71%), but the disconnect with chats is now stark: better opening engagement, weaker click and chat conversion. The reason is again the budget mix. 'VP_Baby-Shower_CarouselAD_17Aug26', the most efficient ad, fell to ₹3,842 (from ₹6,487) with CTR easing to 2.78% (from 3.40%), while 'VP_Garbhsanskar_Customer_Testimonial_VideoAD_21-03-26' jumped to ₹2,588 (from ₹460) at just 0.46% CTR. 'VP_Garbhsanskar_ 27July26' eased to ₹3,239 at a stuck 0.39% CTR.",
-      "The daily pattern shows no recovery yet: 40, 62, 46, 35, 48 and 56 chats for 22, 24, 25, 26, 27 and 28 September. 28 September at 56 chats on ₹1,760 (CPC ₹31.4) was the best day since 24 September, a small positive but still far from the 60 to 80 chat days seen earlier in the month."
-    ],
-    "callout": {
-      "title": "Chat decline is now four pulls old and the budget mix has not been fixed",
-      "body": "Cost per chat is ₹34.16 against ₹20.93 a week earlier. The best ad (the carousel, 2.78% CTR) lost about ₹2,600 of spend in the window while a testimonial video running around 0.46% CTR gained about ₹2,100. Hook rate is at a record 16.24%, so the creative pool is fine. This is a budget allocation problem, and it has repeated for four pulls."
-    },
-    "actions": [
-      "Move budget back to 'VP_Baby-Shower_CarouselAD_17Aug26' (2.78% CTR). It has now lost share for four straight pulls while chats fell.",
-      "Cap 'VP_Garbhsanskar_Customer_Testimonial_VideoAD_21-03-26' at its earlier level (about ₹460 a week). It grew to ₹2,588 at 0.46% CTR.",
-      "'VP_Garbhsanskar_ 27July26' is stuck at 0.39% CTR on ₹3,239. Refresh or replace the creative.",
-      "Check whether the WhatsApp reply and routing flow changed recently. CTR fell from 2.49% to 1.59%, and chat drops alongside a rising hook rate can come from the destination as well as the ad."
-    ]
+  "actions": [
+   "Give 'VP_Vastu-Shanti_17July26' a larger test budget. It has the best CTR in the account (2.54%) and only ₹544 of spend.",
+   "'VP| Vastu video|NewContent|07Jul26 – Copy' is scaling at 1.32% CTR. Keep letting it take share from the static and watch for fatigue.",
+   "'VP_Animated-Static_28Sept26' is at 0.84% CTR, in line with the older static it resembles. Give it two or three more days before deciding whether it earns budget.",
+   "Watch CPM against CPL daily. If CPL crosses ₹60 with CPM still rising, refresh creative before adding budget."
+  ]
+ },
+ "seemantonayan": {
+  "narrative": [
+   "Window is 23 to 29 September against 16 to 22 September, with 23 September missing so the current window has 6 real days. Spend per day held steady (₹1,638 vs ₹1,583, +3.5%) but chats fell hard: 49.7 a day against 71.6 (down 31%). Cost per chat rose 49% to ₹32.98 (from ₹22.12). This is a clear step down and the biggest negative movement across the account this pull.",
+   "CTR dropped to 1.37% (from 2.59%) while hook rate rose to 18.5% (from 10.4%), meaning people are stopping on the ads but fewer click through to WhatsApp. The daily chat count tells the story: 16 to 22 September included days of 83, 74 and 123 chats, while every day in this window sat between 35 and 62.",
+   "The cause is visible in the ad mix. 'VP_Baby-Shower_CarouselAD_17Aug26' (CTR 2.65%, down from 3.66%) had its spend halved to ₹3,261 from ₹6,306, and 'VP_Garbhsanskar_Customer_Testimonial_VideoAD_21-03-26' jumped to ₹3,238 from ₹580 at only 0.53% CTR. Budget moved from the strongest clicking ad to a weak one. The carousel itself is also showing early fatigue."
+  ],
+  "callout": {
+   "title": "Cost per chat up 49% as spend shifted to a 0.53% CTR video",
+   "body": "The testimonial video took roughly ₹2,650 of extra spend at 0.53% CTR while the carousel (2.65% CTR) lost ₹3,045. Chats per day fell from 71.6 to 49.7. Restoring the carousel's share, or refreshing it, is the first fix to try."
   },
-  "app_install_ctwa": {
-    "narrative": [
-      "Still a small sample tab, so treat all reads as a baseline. Window is 22 to 28 September against 15 to 21 September (6 real days against 7 because of the 23 September gap). Spend was ₹496 (from ₹468), chats 16 (from 19), and cost per chat rose to ₹31.03 (from ₹24.63). CPM more than doubled to ₹43.09 (from ₹19.01), which is the main driver, while CTR held at 0.50% and hook rate stayed under 1%.",
-      "The 27 September question raised last pull has an answer: spend was a deliberate re-ramp. It rose to ₹85 on 27 September and ₹174 on 28 September, the highest single day since 22 September (₹159). Results were 1 and 3 chats respectively, so 28 September cost about ₹58 per chat, well above the roughly ₹8 to ₹13 seen on the low spend days of 24 to 26 September (3, 2 and 3 chats on ₹40, ₹16 and ₹23). More spend is buying more expensive chats.",
-      "'VP_AppDownload_Static-1' still carries almost all spend (₹451, CTR 0.48%), while 'VP_AppDownload_Video1' rose to ₹46 with CTR up to 1.19% (from 0.58%), again the better click rate on a tiny budget."
-    ],
-    "callout": {
-      "title": "Higher spend on 27 and 28 September is buying pricier chats",
-      "body": "Spend re-ramped to ₹85 and ₹174 on 27 and 28 September but returned only 1 and 3 chats, about ₹58 per chat on 28 September against roughly ₹8 to ₹13 on the low spend days before. Weekly chat counts are under 20, so one day moves everything, but the direction of the last two days is worth watching before the higher budget becomes the default."
-    },
-    "actions": [
-      "Watch the next two days at the ₹85 to ₹174 spend level. If cost per chat stays above about ₹40, return the budget to the ₹15 to ₹40 range that delivered 2 to 3 chats a day.",
-      "'VP_AppDownload_Video1' has the better CTR (1.19%) on ₹46. Move some budget from the static toward it as a test.",
-      "CPM doubled to ₹43. Check whether the re-ramp widened placements or audience, since the audience is the likely cause.",
-      "Keep reading this tab as a small sample baseline. Under 20 chats a week moves a lot on a single day."
-    ]
+  "actions": [
+   "Cap or pause 'VP_Garbhsanskar_Customer_Testimonial_VideoAD_21-03-26' and push budget back to 'VP_Baby-Shower_CarouselAD_17Aug26'.",
+   "Prepare a fresh variation of the baby shower carousel, since its CTR is slipping from 3.66% to 2.65%.",
+   "Check whether WhatsApp response time or the landing message changed, as hook rate rose while clicks fell.",
+   "Review again in two days. If cost per chat stays above ₹30, consider rebalancing the two ad sets."
+  ]
+ },
+ "app_install_ctwa": {
+  "narrative": [
+   "Still a small sample (about ₹85 a day), so read gently. Window is 23 to 29 September against 16 to 22 September (23 September missing). Spend was ₹521 against ₹597, chats 20 against 21, and cost per chat improved 8% to ₹26.04 (from ₹28.43). Per day chats were 3.3 against 3.0.",
+   "CPM rose 49% to ₹43.88 (from ₹29.50) but CTR improved to 0.52% (from 0.41%) and frequency eased to 1.10. 29 September was the best day yet, with 8 chats on ₹183 of spend.",
+   "'VP_AppDownload_Static-1' still carries most of the spend (₹453) at 0.48% CTR, while 'VP_AppDownload_Video1' is small (₹68) but has a much higher CTR of 1.31%."
+  ],
+  "callout": {
+   "title": "Small sample: CPL is steady, video looks promising",
+   "body": "With only 20 chats in the window, day to day swings are noise. The one signal worth testing is the video ad's 1.31% CTR against 0.48% for the static, which rests on only ₹68 of spend."
   },
-  "umbartha": {
-    "narrative": [
-      "Window is 22 to 28 September against 15 to 21 September, with 23 September still missing (6 real days against 7). Spend was ₹11,674 (from ₹14,378), Shopify orders held at 13 for both windows, and revenue rose 15.4% to ₹26,708 (from ₹23,147). ROAS jumped to 2.29x (from 1.61x). Adjusted per day, spend fell 5% while orders per day rose about 17%, so this is a genuine efficiency gain, the best ROAS read in several pulls.",
-      "Meta and Shopify agree again: Meta reported 13 purchases against Shopify's 13 orders (3, 3, 1, 3, 2, 1 for Meta against 4, 2, 2, 2, 2, 1 for Shopify across the six days), so there is no tracking gap. Meta's own purchase count is down from 18 to 13 only because the prior window included the 19 September spike (6 purchases, 5 orders). Cost per Meta purchase rose to ₹898 (from ₹799), which mainly reflects the smaller order count on a slightly lower spend.",
-      "The creative mix changed materially. 'VP_Umbartha Static_22Sept26' is now the dominant ad at ₹4,220 (CTR 2.67%) in its first full week. 'VP_Umbartha_NewVedio_copy' fell sharply to ₹1,083 (from ₹4,868) despite the best CTR among the major ads (3.55%). The 18 September catalog ad and the L30 engaged retargeting ad set ended at zero after ₹1,271 in the prior window. Hook rate collapsed to 2.53% (from 10.03%) as video spend shrank."
-    ],
-    "callout": {
-      "title": "ROAS reached 2.29x, but the ad with the best CTR lost most of its budget",
-      "body": "Revenue rose to ₹26,708 on lower spend and Meta and Shopify agree exactly (13 and 13). The new static ad is working, but 'VP_Umbartha_NewVedio_copy' (3.55% CTR, the best of the major ads) fell from ₹4,868 to ₹1,083 in the window. Hook rate has now fallen from 10.03% to 2.53%. If ROAS growth stalls, the missing video share is the first place to look."
-    },
-    "actions": [
-      "ROAS is 2.29x with clean tracking. There is no case to cut spend, so hold the current mix and budget.",
-      "Restore some budget to 'VP_Umbartha_NewVedio_copy'. It has a 3.55% CTR and lost about ₹3,800 of weekly spend.",
-      "Watch 'VP_Umbartha Static_22Sept26' for fatigue as it scales. It is the tab's largest ad after one week.",
-      "Confirm that the L30 engaged retargeting ad set and the 18 September catalog ad were paused on purpose, since both went to zero at the same time."
-    ]
+  "actions": [
+   "Raise the budget share of 'VP_AppDownload_Video1' modestly to test whether its 1.31% CTR holds at scale.",
+   "Track actual app installs from these chats, not only chat counts, before judging efficiency.",
+   "Hold the ad set budget steady until there are at least 50 chats in a window.",
+   "Watch CPM (up 49%) but do not act until it persists another pull."
+  ]
+ },
+ "umbartha": {
+  "narrative": [
+   "Window is 23 to 29 September against 16 to 22 September, with 23 September missing so the current window has 6 days. ROAS fell to 1.60x from 2.03x. Per day spend dropped 13% (₹1,852 vs ₹2,131), but per day revenue dropped 31% (₹2,967 vs ₹4,324) and orders fell to 1.5 a day from 2.3. Shopify shows 9 orders and ₹17,805 revenue against 16 orders and ₹30,269. Meta shows 10 purchases against 17, so both sources agree on the decline and this is not attribution lag.",
+   "Two days with zero orders hurt: 21 September earlier and now 29 September, when ₹1,493 was spent with no sale. Hook rate fell sharply to 3.16% (from 8.77%) while CTR held at 2.48%, meaning the opening seconds of the video are no longer stopping people even though clickers still come.",
+   "Creative mix changed a lot. 'VP_Umbartha_NewVedio_copy' (3.43% CTR, the best clicker) dropped to ₹1,200 from ₹4,464, while the new 'VP_Umbartha Static_22Sept26' rose to ₹3,489 from ₹918 at 2.54% CTR. The catalog ad 'Umbartha_Catalog ads _18Sept26' and the L30 website engaged ad set both stopped (₹1,271 and about ₹1,195 of earlier spend now at zero)."
+  ],
+  "callout": {
+   "title": "ROAS down to 1.60x, confirmed by both Meta and Shopify",
+   "body": "Orders fell from 16 to 9 and revenue from ₹30,269 to ₹17,805, with Meta and Shopify in agreement, so this is a real decline. The best CTR video lost most of its budget while a new static took over, and the retargeting audience (L30 engaged) has stopped spending."
   },
-  "vedic_sanskar": {
-    "narrative": [
-      "Window is 22 to 28 September against 15 to 21 September, with 23 September still missing (6 real days against 7). Sales softened: Shopify orders fell to 34 (from 52), revenue to ₹26,754 (from ₹42,632), and ROAS to 2.11x (from 3.11x). Total spend eased 7.7% to ₹12,656, but spend per day actually rose 7.7% (₹2,109 vs ₹1,958) because of the shorter window, so more money per day bought fewer orders. Per day, orders fell about 24%.",
-      "The picture is more mixed than the headline. 22 September was an outlier, with only 1 order on ₹1,647 spend. From 24 to 28 September the tab delivered 33 orders and ₹25,271 of revenue on ₹11,009 of spend, a 2.30x ROAS and about 6.6 orders a day, which is steadier and a good deal closer to the prior level. The prior window's 3.11x also carried two very strong days (10 orders on 18 September and 11 on 21 September), so the comparison is flattered on that side.",
-      "The Meta versus Shopify gap persists: Meta reported 28 purchases against Shopify's 34 orders (an 82% match), with Meta under reporting by 1 to 2 orders on most days (1 vs 1, 5 vs 6, 5 vs 7, 5 vs 7, 6 vs 7, 6 vs 6). 28 September matched exactly for the first time in several pulls, a small positive. Ad level: 'VP_Kundali-Namkaran_VideoAD_26Jun26' scaled to ₹3,723 (from ₹1,251) with CTR down to 1.27% (from 1.66%), while 'VP_Baby_Kundali_Static_10sept26' halved to ₹2,537 (from ₹5,096) at a steady 1.21% CTR. 'Numerology_Static_8Sept26' rose to ₹777 with a 1.89% CTR, the best on the tab."
-    ],
-    "callout": {
-      "title": "ROAS fell to 2.11x, but one outlier day and two unusually strong prior days explain much of it",
-      "body": "22 September delivered 1 order on ₹1,647 of spend, dragging the window. From 24 to 28 September the tab ran at 2.30x ROAS and about 6.6 orders a day, against a prior window that included days of 10 and 11 orders. The Meta under reporting (28 vs 34) has not closed either, though 28 September matched exactly. Treat this as a soft patch to watch, not a collapse."
-    },
-    "actions": [
-      "Look at what happened on 22 September (1 order on ₹1,647). Check for a delivery issue, a site problem or a payment failure before assuming it was demand.",
-      "'Numerology_Static_8Sept26' has the best CTR on the tab (1.89%) on just ₹777. Test it at a larger share.",
-      "'VP_Kundali-Namkaran_VideoAD_26Jun26' tripled its spend while CTR fell to 1.27%. Watch for fatigue over the next two pulls before adding more.",
-      "The purchase event check for Vedic Sanskar products (pixel and Conversions API) is still open. Meta is under reporting by 1 to 2 orders a day on most days."
-    ]
+  "actions": [
+   "Return budget to 'VP_Umbartha_NewVedio_copy', which has the best CTR (3.43%) but only ₹1,200 of spend.",
+   "Judge 'VP_Umbartha Static_22Sept26' on orders, not CTR, since it now holds ₹3,489 of spend.",
+   "Re-enable a retargeting set (L30 website engaged), since it stopped and orders fell at the same time.",
+   "Refresh the video opening seconds, as hook rate fell to 3.16%."
+  ]
+ },
+ "vedic_sanskar": {
+  "narrative": [
+   "Window is 23 to 29 September against 16 to 22 September, with 23 September missing so the current window has 6 days. This tab held steady with mild per day growth. Spend per day rose 7% (₹2,106 vs ₹1,965), orders per day rose 9% (7.3 vs 6.7) and revenue per day rose 6% (₹5,955 vs ₹5,625). ROAS was flat at 2.83x (from 2.86x). Shopify shows 44 orders and ₹35,731 across 6 days against 47 and ₹39,374 across 7.",
+   "29 September was the best day of the window: 11 orders and ₹10,459 revenue on only ₹1,626 of spend, roughly 6.4x ROAS. Meta shows 37 purchases and a cost per purchase of ₹341, up from ₹306, but Shopify's real order count is higher, so that gap is mostly attribution lag.",
+   "Spend moved toward video. 'VP_Kundali-Namkaran_VideoAD_26Jun26' rose to ₹4,004 (from ₹1,394) at 1.30% CTR, while 'VP_Baby_Kundali_Static_10sept26' fell to ₹2,286 (from ₹5,384) at 1.13% CTR. The numerology static 'Numerology_Static_8Sept26' grew to ₹835 at a strong 1.85% CTR. Hook rate improved to 18.4% (from 15.0%)."
+  ],
+  "callout": {
+   "title": "Steady 2.83x ROAS, with Meta undercounting purchases",
+   "body": "Meta reports 37 purchases while Shopify recorded 44 orders in the same window, so use Shopify as the source of truth. The rotation from static to video did not hurt ROAS."
   },
-  "ganesh_sthapana": {
-    "narrative": [
-      "Spend remains at ₹0 on every confirmed day through 28 September (23 September is the only missing day, as on every other tab). Another pull with no spend, impressions or orders, extending a stretch that now covers more than two and a half weeks since the campaign's last spend on 10 September.",
-      "With nothing running, there is no new information at the ad level. 'Ganesh_sthapana_Ad1', the carousel ad and the UGC creative remain the campaign's largest historical spenders, unchanged."
-    ],
-    "callout": {
-      "title": "Still zero spend; this reads as a finished seasonal campaign",
-      "body": "No spend or activity again. The shape (a peak on 5 and 6 September, then a hard stop) matches a planned end to the Ganesh Sthapana season. It is worth getting explicit confirmation from the client so this tab can stop taking space in the daily read."
-    },
-    "actions": [
-      "Confirm with the client that the seasonal campaign has ended.",
-      "Once confirmed, archive this tab until next year's season.",
-      "Keep 'Ganesh_sthapana_Ad1', the carousel ad and the UGC creative as reusable assets for next year.",
-      "No efficiency metrics to act on this pull."
-    ]
-  }
+  "actions": [
+   "Test more budget on 'Numerology_Static_8Sept26' (1.85% CTR, only ₹835 spend).",
+   "Keep 'VP_Kundali-Namkaran_VideoAD_26Jun26' scaling while ROAS holds near 2.8x.",
+   "Watch 'VP_Baby_Kundali_Static_10sept26', which lost more than half its spend, for any further decline.",
+   "Use Shopify orders, not Meta purchases, when judging cost per purchase this week."
+  ]
+ },
+ "ganesh_sthapana": {
+  "narrative": [
+   "Spend remains at ₹0 on every confirmed day through 29 September (23 September is the only missing day, as on every other tab). Another pull with no spend, impressions or orders, extending a stretch of about three weeks since the campaign's last spend on 10 September.",
+   "With nothing running, there is no new information at the ad level. 'Ganesh_sthapana_Ad1', the carousel ad and the UGC creative remain the campaign's largest historical spenders, unchanged."
+  ],
+  "callout": {
+   "title": "Still zero spend; this reads as a finished seasonal campaign",
+   "body": "No spend or activity again. The shape (a peak in early September, then a hard stop) matches a planned end to the Ganesh Sthapana season. It is worth getting explicit confirmation from the client so this tab can stop taking space in the daily read."
+  },
+  "actions": [
+   "Confirm with the client that the seasonal campaign has ended.",
+   "Once confirmed, archive this tab until next year's season.",
+   "Keep 'Ganesh_sthapana_Ad1', the carousel ad and the UGC creative as reusable assets for next year.",
+   "No efficiency metrics to act on this pull."
+  ]
+ }
 }
